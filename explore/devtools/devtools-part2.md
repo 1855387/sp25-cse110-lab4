@@ -1,0 +1,2 @@
+1 The bug was that num1 and num2 were both strings, thereby making result a string as well. This made the page display the concatenation of the 2 strings rather than actualy adding them mathematically as numbers.  
+2 Check fix.png in expand
